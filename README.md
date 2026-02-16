@@ -1,5 +1,5 @@
-🚨 Smartphone-Based Accident Detection and Alert System
-📌 Overview
+###🚨 Smartphone-Based Accident Detection and Alert System
+##📌 Overview
 
 This project presents a Smartphone-Based Accident Detection and Alert System designed to reduce emergency response delay after road accidents. The system detects potential crash events using built-in smartphone sensors and automatically sends location-based alerts to emergency services and registered contacts.
 
